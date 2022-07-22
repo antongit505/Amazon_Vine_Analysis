@@ -2,7 +2,7 @@
 
 ## Overview
 
-Analyzing Amazon reviews in AWS with Spark(PySpark) and SQL
+__Analyzing Amazon reviews in AWS with Spark(PySpark) and SQL__
 
 We will be working with BigMarket who's a company that helps bussinesses optimize their marketing efforts.<br/>
 Our cliente $ellby requests us to analize a large catalog of products on a leading retail website and they want to know
